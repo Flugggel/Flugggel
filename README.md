@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Flugggel and I am trying to learn Python and I would like to learn Java. 
+- I am interested in Kodi and deveolping an addon for personal use and just for learning.
